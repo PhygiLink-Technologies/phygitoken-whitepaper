@@ -1,109 +1,111 @@
-**Phygitoken (\$PHYG) Whitepaper**
+# Phygitoken ($PHYG) Whitepaper
 
-**Version 1.0**
-**Network:** Base (Ethereum L2)
-**Token Standard:** ERC-20
+**Version 1.0**  
+**Network:** Base (Ethereum L2)  
+**Token Standard:** ERC-20  
 **Total Supply:** 1,000,000,000 (Fixed)
 
 ---
 
-### **1. Introduction**
-
-Phygitoken (\$PHYG) is the native utility token powering the Phygilink ecosystem—a blockchain-based platform that bridges the gap between physical collectibles and verifiable digital ownership. As Web3 evolves, the demand for secure and transparent collectible authentication grows. Phygilink provides a seamless system to link real-world items with NFTs via NFC-enabled tags, with \$PHYG serving as the digital fuel behind it all.
-
----
-
-### **2. Purpose of \$PHYG**
-
-\$PHYG is not a meme or speculative token. It is a real utility token designed for:
-
-* Authenticating and verifying physical collectibles.
-* Powering NFT upgrades and enhanced metadata.
-* Unlocking exclusive drops, collectible fusions, and community perks.
-* Facilitating future discounts and ecosystem benefits inside the Phygilink Marketplace.
+## 🔍 Introduction
+Phygitoken ($PHYG) is the native utility token of the Phygilink ecosystem—bridging physical collectibles with blockchain-based digital authentication. Using NFC-enabled tags, users can verify, showcase, and enhance the digital value of their physical assets.
 
 ---
 
-### **3. Why Base?**
+## 🎯 Purpose of $PHYG
+$PHYG is a true utility token designed for:
 
-The Base network (an Ethereum Layer 2) was selected for its low fees, developer ecosystem, Coinbase integration, and ease of use for crypto-savvy collectors. Deploying on Base allows \$PHYG to remain affordable, scalable, and accessible to a growing Web3 user base.
-
----
-
-### **4. Tokenomics Overview**
-
-**Total Supply:** 1,000,000,000 (fixed, no inflation)
-
-| Category             | Allocation | Vesting & Notes                        |
-| -------------------- | ---------- | -------------------------------------- |
-| Community Presale    | 40%        | Public access, dynamic tier pricing    |
-| Founders & Team      | 15%        | 6-month cliff, 18-month linear vesting |
-| Ecosystem Rewards    | 15%        | For NFT fusion, upgrades, and staking  |
-| Marketing & Airdrops | 10%        | Campaign-driven, time-based unlock     |
-| Liquidity Provision  | 10%        | Locked LP for minimum 12 months        |
-| Advisors & Partners  | 5%         | 3-month cliff, 12-month vesting        |
-| Treasury / Reserve   | 5%         | Strategic reserves                     |
-
-**Decimals:** 18
-**Contract Type:** ERC-20 Standard
+- Authenticating real-world collectibles  
+- Powering NFT upgrades and digital twin features  
+- Unlocking exclusive collector perks and drops  
+- Fueling marketplace incentives and integrations
 
 ---
 
-### **5. No Friction Token Model**
+## ⚡ Why Base?
+Built on **Base**, an Ethereum Layer 2, $PHYG benefits from:
 
-To ensure trust and adoption, \$PHYG includes **no transaction taxes, burn fees, reflections, or buyback mechanics**. It is designed for pure utility and simplicity, maximizing integration flexibility across third-party platforms, NFT marketplaces, and wallets.
-
----
-
-### **6. Presale Details**
-
-* **Hard Cap:** \$500,000
-* **Minimum Contribution:** \$25
-* **Accepted Currencies:** USDC (or ETH/BASE)
-* **Max Wallet Allocation:** 2% of total supply during presale
-* **Dynamic Pricing:** Tiered entry pricing (first-come, first-served)
+- Low gas fees  
+- Coinbase ecosystem access  
+- Strong developer tooling  
+- Scalable Web3 infrastructure
 
 ---
 
-### **7. Use Cases & Ecosystem Integration**
+## 📊 Tokenomics
 
-* Enable premium features within collectible vaults
-* Upgrade NFC-backed NFTs with enhanced media and metadata
-* Unlock limited edition tag drops and content
-* Act as fuel for future marketplace perks and governance options
+**Total Supply:** 1,000,000,000 (Fixed)  
+**Decimals:** 18  
+**Standard:** ERC-20
 
----
-
-### **8. Future Roadmap**
-
-**Q3 2025:**
-
-* Launch presale & distribute \$PHYG tokens
-* Finalize NFT + NFC integration for marketplace
-* Begin smart contract audit process
-
-**Q4 2025:**
-
-* Launch Phygilink Marketplace (Beta)
-* Activate token-based perks & upgrade system
-* Release collector dashboard with NFT fusion tools
-
-**2026 and beyond:**
-
-* Expansion into new categories (art, memorabilia, luxury goods)
-* Introduce DAO-based governance (optional future utility)
-* Launch multi-chain bridge if needed
+| Allocation            | %   | Notes                                 |
+|-----------------------|-----|----------------------------------------|
+| Community Presale     | 40% | Tiered pricing for early adopters     |
+| Founders & Team       | 15% | 6-month cliff, 18-month vesting       |
+| Ecosystem Rewards     | 15% | Upgrades, fusions, staking incentives |
+| Marketing & Airdrops  | 10% | Community growth and campaigns        |
+| Liquidity Provision   | 10% | Locked for 12 months                  |
+| Advisors & Partners   | 5%  | 3-month cliff, 12-month vesting       |
+| Treasury / Reserve    | 5%  | Strategic growth                      |
 
 ---
 
-### **9. Legal & Disclaimer**
-
-\$PHYG is a utility token and does not represent equity, ownership, or security in TapTech Digital, Phygilink, or any affiliated entity. Participation in the token sale is voluntary and subject to local laws. This whitepaper is not financial advice.
+## 🚫 No Friction Token Design
+- No transaction tax  
+- No reflections  
+- No burn or buyback logic  
+Designed for utility, simplicity, and long-term adoption.
 
 ---
 
-### **10. Final Notes**
+## 🚀 Presale Details
 
-Phygitoken is designed to power a specific niche: collectors who value digital permanence, authentication, and next-gen ownership. With a fixed supply, modern L2 infrastructure, and clear roadmap, \$PHYG aims to be the foundational asset behind the Phygilink collector experience.
+- **Hard Cap:** $500,000  
+- **Minimum Contribution:** $25  
+- **Accepted:** USDC (or ETH/BASE)  
+- **Max Wallet:** 2% of supply  
+- **Pricing:** Dynamic tiers (first-come, first-served)
 
-For more information, visit: \[phygiLink.site] or contact [hello@phygiLink.site](mailto:hello@phygiLink.site)
+---
+
+## 🧩 Use Cases
+
+- Premium collectible verification  
+- NFT upgrade and fusion capabilities  
+- Limited-edition drops and content  
+- Ecosystem benefits and future DAO proposals
+
+---
+
+## 🗓 Roadmap Highlights
+
+**Q3 2025**  
+- Token presale + distribution  
+- NFC tag + NFT sync  
+- Begin audit phase  
+
+**Q4 2025**  
+- Marketplace (Beta)  
+- Launch dashboard + upgrades  
+- Token-powered perks  
+
+**2026+**  
+- Expand into luxury goods + memorabilia  
+- Introduce DAO governance (optional)  
+- Multi-chain bridge if needed
+
+---
+
+## ⚖️ Legal Disclaimer
+$PHYG is a utility token and does not represent equity, ownership, or security in PhygiLink Technologies LLC or its partners. Participation in the presale is voluntary and subject to local laws. This is not financial advice.
+
+---
+
+## 🔗 Learn More
+🌐 Website: [https://phygi.link](https://phygi.link)  
+📬 Contact: info@phygi.link  
+📄 [Download the Whitepaper (PDF)](./PHYG_Whitepaper_v1.1.pdf)
+
+---
+
+*Built for collectors. Powered by Base. Secured by NFC.*
